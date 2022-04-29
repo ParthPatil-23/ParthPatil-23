@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my app
-- 📫 How to reach me parthpatil2423@gmail.com
+- 📫 How to reach me parthpatil2823@gmail.com
 
 <!---
 ParthPatil-23/ParthPatil-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
